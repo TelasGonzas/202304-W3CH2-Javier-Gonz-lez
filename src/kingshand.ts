@@ -1,6 +1,6 @@
-import { Character } from './character.ts';
-import { King } from './king.ts';
-import { Swordsman } from './swordsman.ts';
+import { Character } from './character';
+import { King } from './king';
+import { Swordsman } from './swordsman';
 
 export class Kingshand extends Character {
   support;

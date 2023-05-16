@@ -1,5 +1,5 @@
-import { Character } from './character.ts';
-import { Swordsman } from './swordsman.ts';
+import { Character } from './character';
+import { Swordsman } from './swordsman';
 
 export class Squire extends Character {
   support;
